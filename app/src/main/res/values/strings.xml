@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PatataPrueba</string>
+
+    <string name="logo_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fvsbattles%2Fimages%2Fe%2Fe8%2FRP1_Logo_TR.png%2Frevision%2Flatest%3Fcb%3D20190719123908&amp;f=1&amp;nofb=1&amp;ipt=01851a7fe580c9794af1e21d7f8678cd99e9e4dccd85ca408e7f73f962c76185</string>
+    <string name="presets_title">Login presets </string>
+
+
+    <string name="optimus_name">Optimus Prime</string>
+    <string name="optimus_description">Main protagonist of the Transformers franchise, known for being the brave and noble leader of the Autobots. Originally named Orion Pax, he embodies strong moral values and fights against the evil Decepticons, often transforming into a semi-truck.</string>
+    <string name="optimus_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F292a75c3-abb5-4390-a2a8-4fc16eca629c%2Fdaw2ntn-4d687404-b0b3-4ab6-9eab-f5c5884bffa2.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5MmE3NWMzLWFiYjUtNDM5MC1hMmE4LTRmYzE2ZWNhNjI5Y1wvZGF3Mm50bi00ZDY4NzQwNC1iMGIzLTRhYjYtOWVhYi1mNWM1ODg0YmZmYTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.taL655HET4A97jULtAIRlS_7y0I4IL9aw35tF7AOLb0&amp;f=1&amp;nofb=1&amp;ipt=e270011baf8311f20ba5fd7694fe0f6b0dcf3cbfbc7a13dd66b3a90577b36a5d</string>
+
+    <string name="megatron_name">Megatron</string>
+    <string name="megatron_description">Main antagonist in the Transformers franchise, known as the ruthless leader of the Decepticons. He is characterized by his desire for power and conquest, often clashing with his rival, Optimus Prime, the leader of the Autobots.</string>
+    <string name="megatron_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ff3%2F64%2Fe4%2Ff364e495db4602a247ab24e3601d4d8b.jpg&amp;f=1&amp;nofb=1&amp;ipt=613be848bc205206bb32cb80abfa59a6c8de7e27dbf27dc21259f3519a63bcdd</string>
+
+    <string name="fm_name">Frostmourne</string>
+    <string name="fm_description">legendary two-handed sword from the World of Warcraft universe, known for its icy power and ability to steal the souls of its victims. It was wielded by Arthas Menethil, who became the Lich King, and is often associated with themes of power, corruption, and tragedy.</string>
+    <string name="fm_url">https://static.wikia.nocookie.net/vsbattles/images/1/18/Oie_LjynPjWk2dVc.png/revision/latest?cb=20221125064244</string>
+
+    <string name="es_name">Energy Sword</string>
+    <string name="es_url">https://static.wikia.nocookie.net/vsbattles/images/a/aa/Energysword.png/revision/latest?cb=20180908191559</string>
+    <string name="es_description">Also known as a plasma sword, is a single-handed, double-bladed weapon used by the Sangheili. It features superheated plasma contained within a magnetic field, allowing it to be a powerful melee weapon capable of killing most foes with a single strike.</string>
+</resources>
