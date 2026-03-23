@@ -3,11 +3,33 @@
     <style name="Base.Theme.PatataPrueba" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-
     </style>
 
     <style name="Theme.PatataPrueba" parent="Base.Theme.PatataPrueba" />
 
+    <style name="success">
+        <item name="stTextColor">#fff</item>
+        <item name="stTextSize">18sp</item>
+        <item name="stColorBackground">#8BC34A</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#777777</item>
+        <item name="stIconEnd">@drawable/icon_success</item>
+        <item name="stLength">LONG</item>
+        <item name="stGravity">top</item>
+        <item name="stRadius">5dp</item>
+    </style>
 
-
+    <style name="error">
+        <item name="stTextColor">#fff</item>
+        <item name="stTextSize">18sp</item>
+        <item name="stColorBackground">#F44336</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#777777</item>
+        <item name="stIconEnd">@drawable/icon_error</item>
+        <item name="stLength">LONG</item>
+        <item name="stGravity">top</item>
+        <item name="stRadius">5dp</item>
+    </style>
 </resources>

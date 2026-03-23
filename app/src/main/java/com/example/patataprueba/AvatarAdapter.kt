@@ -13,6 +13,11 @@ class AvatarAdapter(private val avatars: List<Avatars>):
 RecyclerView.Adapter<AvatarAdapter.AvatarViewHolder>(){
 
     private lateinit var context: Context
+    private var onSelectAvatar: ((Avatars) -> Unit)? = null
+
+    fun setOnSelectAvatar(callback: (Avatars) -> Unit) {
+        this.onSelectAvatar = callback
+    }
 
     override fun onCreateViewHolder(
         parent: ViewGroup,
@@ -36,6 +41,10 @@ RecyclerView.Adapter<AvatarAdapter.AvatarViewHolder>(){
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
                 .fitCenter()
                 .into(binding.imgAvatar)
+                
+            binding.btnSelect.setOnClickListener {
+                onSelectAvatar?.invoke(avatar)
+            }
         }
     }
 
