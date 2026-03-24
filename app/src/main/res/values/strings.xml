@@ -4,20 +4,119 @@
     <string name="logo_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fvsbattles%2Fimages%2Fe%2Fe8%2FRP1_Logo_TR.png%2Frevision%2Flatest%3Fcb%3D20190719123908&amp;f=1&amp;nofb=1&amp;ipt=01851a7fe580c9794af1e21d7f8678cd99e9e4dccd85ca408e7f73f962c76185</string>
     <string name="presets_title">Login presets </string>
 
-
     <string name="optimus_name">Optimus Prime</string>
-    <string name="optimus_description">Main protagonist of the Transformers franchise, known for being the brave and noble leader of the Autobots. Originally named Orion Pax, he embodies strong moral values and fights against the evil Decepticons, often transforming into a semi-truck.</string>
+    <string name="optimus_description">Also known as John-117 — a genetically augmented Spartan-II supersoldier and the main protagonist of the Halo video game series. Clad in green Mjolnir powered armor and helmet, he’s a highly skilled soldier known for tactical expertise, resilience, near-superhuman strength and reflexes, and stoic, duty-first demeanor.</string>
     <string name="optimus_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F292a75c3-abb5-4390-a2a8-4fc16eca629c%2Fdaw2ntn-4d687404-b0b3-4ab6-9eab-f5c5884bffa2.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5MmE3NWMzLWFiYjUtNDM5MC1hMmE4LTRmYzE2ZWNhNjI5Y1wvZGF3Mm50bi00ZDY4NzQwNC1iMGIzLTRhYjYtOWVhYi1mNWM1ODg0YmZmYTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.taL655HET4A97jULtAIRlS_7y0I4IL9aw35tF7AOLb0&amp;f=1&amp;nofb=1&amp;ipt=e270011baf8311f20ba5fd7694fe0f6b0dcf3cbfbc7a13dd66b3a90577b36a5d</string>
 
     <string name="megatron_name">Megatron</string>
     <string name="megatron_description">Main antagonist in the Transformers franchise, known as the ruthless leader of the Decepticons. He is characterized by his desire for power and conquest, often clashing with his rival, Optimus Prime, the leader of the Autobots.</string>
     <string name="megatron_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ff3%2F64%2Fe4%2Ff364e495db4602a247ab24e3601d4d8b.jpg&amp;f=1&amp;nofb=1&amp;ipt=613be848bc205206bb32cb80abfa59a6c8de7e27dbf27dc21259f3519a63bcdd</string>
 
+    <string name="chief_name">Master Chief</string>
+    <string name="chief_description">Main antagonist in the Transformers franchise, known as the ruthless leader of the Decepticons. He is characterized by his desire for power and conquest, often clashing with his rival, Optimus Prime, the leader of the Autobots.</string>
+    <string name="chief_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2F71%2F5b%2F4b%2F715b4bc47ae1af3f3d2dd39377ad9bde.jpg&amp;f=1&amp;nofb=1&amp;ipt=46cf2293a3a14d633b27a516c75eda2d71f4f81a84495b2368b7927919770afb</string>
+
+    <string name="uriel_name">Uriel</string>
+    <string name="uriel_description">To fight as the Heretic of Xata is to have demons at your back. Uriel incinerates foes with searing brimstone, and commands three fiendish summons to do his devil\'s work.</string>
+    <string name="uriel_url">https://wiki.warframe.com/images/Uriel_Thumb.png?08d7b</string>
+
+    <string name="shepard_name">Commander Shepard</string>
+    <string name="shepard_description">A human Alliance officer who becomes the galaxy\'s key defender against an ancient, machine-like threat called the Reapers.</string>
+    <string name="shepard_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fbb%2Fa3%2F4a%2Fbba34ad0186d53e6816b4b8bcd66cbc7.jpg&amp;f=1&amp;nofb=1&amp;ipt=b6c6bf9f1f866287338ab07027fcf7c4db63d320a053a28c8aebefba73705ab4</string>
+
+    <string name="armstrong_name">Senator Armstrong</string>
+    <string name="armstrong_description">A charismatic Colorado senator and 2020 presidential candidate aiming to instigate a new American revolution.</string>
+    <string name="armstrong_url">https://static.wikia.nocookie.net/villains/images/d/de/SenatorArmstrong3.png/revision/latest?cb=20230812232119</string>
+
+    <string name="helldiver_name">John Helldiver</string>
+    <string name="helldiver_description">A heavily armored, airborne insertion specialist trained to deploy from aircraft into hostile or high-risk zones to assault fortified targets, secure objectives, and provide close-quarters firepower.</string>
+    <string name="helldiver_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages8.alphacoders.com%2F135%2F1356939.jpeg&amp;f=1&amp;nofb=1&amp;ipt=357c6af398580178631ff552da4b02bed5f0bda89cc7079cea94c1094813542e</string>
+
+    <string name="guilliman_name">Roboute Guilliman</string>
+    <string name="guilliman_description">The primarch of the Ultramarines Space Marine Legion, sometimes referred to as the Avenging Son or The Master of Ultramar.</string>
+    <string name="guilliman_url">https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ca893e3-6a4e-41ea-969e-60b2e6bc4315/dl2kppc-6aaf6081-e021-4297-ae1e-e62f7d8d7e92.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85Y2E4OTNlMy02YTRlLTQxZWEtOTY5ZS02MGIyZTZiYzQzMTUvZGwya3BwYy02YWFmNjA4MS1lMDIxLTQyOTctYWUxZS1lNjJmN2Q4ZDdlOTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UTqdOvesodnZecfT_vkK7czUlGFy06IWA_oKUlZEUO4</string>
+
+    <string name="voldemort_name">Voldemort</string>
+    <string name="voldemort_description">A brilliant, power-hungry dark wizard who seeks immortality and domination of the wizarding world, uses Horcruxes to split his soul.</string>
+    <string name="voldemort_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-s00I_w7etQs%2FV1a3aGX5AqI%2FAAAAAAAAGfE%2F3MyikqBpmTE93wRSYphqAsvzUY9VixuUQCLcB%2Fs1600%2FLord_Voldemort.png&amp;f=1&amp;nofb=1&amp;ipt=5b79889c526cfe5e055df1b35220b2e004898b686348e86689ca26d18cc7e6a7</string>
+
+    <string name="sauron_name">Sauron</string>
+    <string name="sauron_description">The titular Dark Lord of Middle-earth, a powerful Maia spirit and former lieutenant to Morgoth.</string>
+    <string name="sauron_url">https://static.wikia.nocookie.net/characterprofile/images/7/70/The_dark_lord_sauron_transparent_by_speedcam.png/revision/latest?cb=20231031180309</string>
+
+    <string name="mordekaiser_name">Mordekaiser</string>
+    <string name="mordekaiser_description">A brutal, undead juggernaut in League of Legends, serving as a heavily armored warlord who wields necromantic sorcery.</string>
+    <string name="mordekaiser_url">https://i1.sndcdn.com/artworks-000547901946-g26i6y-t500x500.jpg</string>
+
+    <string name="robocop_name">Robocop</string>
+    <string name="robocop_description">Alex Murphy is a cyborg law-enforcement officer: part human, part heavily armored police unit controlled by corporate directives.</string>
+    <string name="robocop_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F639%2F526%2FHD-wallpaper-artwork-artstation-robocop-movies-science-fiction-cyborg.jpg&amp;f=1&amp;nofb=1&amp;ipt=efdff7dcd68a88b344cfbc490b6a8dbd1398dcc5e12528f47a237ea74d2dba8d</string>
+
+    <string name="radahn_name">Radahn</string>
+    <string name="radahn_description">A towering demigod and fearsome warrior in Elden Ring, famed for his immense strength and mastery of gravity-based powers.</string>
+    <string name="radahn_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FBWjCxqW3Hyyqryh2UfimEd.jpg&amp;f=1&amp;nofb=1&amp;ipt=8198ebfac4e158839d95ffdc36e3f66e668ad8f61319326ec94a71b2e05f492d</string>
+
+    <string name="jj_name">Jay Jay the Avioncito</string>
+    <string name="jj_description">A small, bright blue jet with a very friendly human face on his nose. He has big, expressive eyes and a wide, cheerful smile.</string>
+    <string name="jj_url">https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10dad133-eda1-4968-b17f-c0ae068429fe/dfk5o7d-7b253d4f-249c-4531-a3f3-9702c3cf3c6d.png/v1/fill/w_859,h_579/jay_jay_the_jet_plane__png__by_ddshipmatcha_dfk5o7d-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc5IiwicGF0aCI6Ii9mLzEwZGFkMTMzLWVkYTEtNDk2OC1iMTdmLWMwYWUwNjg0MjlmZS9kZms1bzdkLTdiMjUzZDRmLTI0OWMtNDUzMS1hM2YzLTk3MDJjM2NmM2M2ZC5wbmciLCJ3aWR0aCI6Ijw9ODU5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.9JPpHaaFq9sE-QkM6drTqGnaLxHOQP6W2_08qXQlRC4</string>
+
+    <string name="hitler_name">Zombie Adolf Hitler</string>
+    <string name="hitler_description">He is a central figure in urban legends about a secret boss, and his regime’s Nazi party.</string>
+    <string name="hitler_url">https://static.wikia.nocookie.net/villains/images/3/32/Adolf_Hitler_%28Dead_War%29.jpg/revision/latest?cb=20240911043242</string>
+
     <string name="fm_name">Frostmourne</string>
-    <string name="fm_description">legendary two-handed sword from the World of Warcraft universe, known for its icy power and ability to steal the souls of its victims. It was wielded by Arthas Menethil, who became the Lich King, and is often associated with themes of power, corruption, and tragedy.</string>
+    <string name="fm_description">Legendary two-handed sword from World of Warcraft, known for its icy power and ability to steal the souls of its victims.</string>
     <string name="fm_url">https://static.wikia.nocookie.net/vsbattles/images/1/18/Oie_LjynPjWk2dVc.png/revision/latest?cb=20221125064244</string>
 
     <string name="es_name">Energy Sword</string>
     <string name="es_url">https://static.wikia.nocookie.net/vsbattles/images/a/aa/Energysword.png/revision/latest?cb=20180908191559</string>
-    <string name="es_description">Also known as a plasma sword, is a single-handed, double-bladed weapon used by the Sangheili. It features superheated plasma contained within a magnetic field, allowing it to be a powerful melee weapon capable of killing most foes with a single strike.</string>
+    <string name="es_description">Also known as a plasma sword, a single-handed, double-bladed weapon used by the Sangheili, capable of killing most foes with a single strike.</string>
+
+    <string name="exec_name">Tenet Exec</string>
+    <string name="exec_description">A unique Tenet Heavy Blade with Slam Attacks that release a multitude of shockwaves.</string>
+    <string name="exec_url">https://wiki.warframe.com/images/TenetExec.png?0ea03</string>
+
+    <string name="riptide_name">M-76 Riptide</string>
+    <string name="riptide_description">Assault rifle known for high accuracy, solid damage, and good handling at medium range.</string>
+    <string name="riptide_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F29%2Fbb%2F04%2F29bb0480a8d37ba15fe1ee7440193a8d.jpg&amp;f=1&amp;nofb=1&amp;ipt=15122f4b51ecff147162c1cbad72aa233a75cd597d6b6b548fb15dfb73b3aecd</string>
+
+    <string name="hellbomb_name">Portable hellbomb</string>
+    <string name="hellbomb_description">A compact, high-yield thermobaric ordnance designed to produce extreme overpressure and intense heat in confined spaces.</string>
+    <string name="hellbomb_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftr.rbxcdn.com%2F180DAY-1f756241fd33bbe99d0fff57e89e1aa5%2F420%2F420%2FBackAccessory%2FWebp%2FnoFilter&amp;f=1&amp;nofb=1&amp;ipt=b5f0143e29d80d5d2bb22b97b237c25f90be84c11cd9ca8b3136346b39f04a3c</string>
+
+    <string name="armor_breaker_name">Armor Breaker</string>
+    <string name="armor_breaker_description">A special unlockable sword that provides a random chance to instantly destroy enemy armor, rendering them vulnerable to Zandatsu.</string>
+    <string name="armor_breaker_url">https://p.turbosquid.com/ts-thumb/xw/dil8qR/N2/1022_viewport/png/1681476491/1920x1080/fit_q87/137360a2214ea9231640c0d7729f60edc458df54/1022_viewport.jpg</string>
+
+    <string name="emperor_sword_name">Emperor\'s Sword</string>
+    <string name="emperor_sword_description">A famed relic blade that was wielded by the Emperor of Mankind Himself.</string>
+    <string name="emperor_sword_url">https://i.redd.it/ti266hg005db1.png</string>
+
+    <string name="maliketh_blade_name">Maliketh\'s Black Blade</string>
+    <string name="maliketh_blade_description">A greatsword imbued with time-corrupting power that can shroud wounds and deal heavy physical and magic damage.</string>
+    <string name="maliketh_blade_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Feldenring%2Fimages%2F3%2F3c%2FER_Icon_weapon_Maliketh%27s_Black_Blade.png%2Frevision%2Flatest%3Fcb%3D20220411004208&amp;f=1&amp;nofb=1&amp;ipt=e9242562af87a0c002d89c01065a5f41d202772e71d215cbfdda7d6615090cb1</string>
+
+    <string name="elder_wand_name">Elder Wand</string>
+    <string name="elder_wand_description">A legendary, unbeatable wand from the Deathly Hallows said to switch loyalty to the victor who defeats its previous owner.</string>
+    <string name="elder_wand_url">https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Fdetail%2F857-8577069_elder-wand-toy-harry-potter-wands-dumbledore.png&amp;f=1&amp;nofb=1&amp;ipt=a2d02a33f5356c0f6c7217fac839947f91d0f8c57e401b6d9429b80efba816a8</string>
+
+    <string name="zorg_name">Zorg ZF-1</string>
+    <string name="zorg_description">A multi-function pod weapon from The Fifth Element, featuring missiles, flamethrower, net launcher, and more.</string>
+    <string name="zorg_url">https://static.wikia.nocookie.net/fifth-element/images/9/92/Zorg_ZF-1.png/revision/latest?cb=20150603022144</string>
+
+    <string name="sauron_mace_name">Sauron\'s Mace</string>
+    <string name="sauron_mace_description">INTENTAMOS BUSCARLA SIN FONDO Dx A massive, black iron war mace, wielded during the War of the Last Alliance.</string>
+    <string name="sauron_mace_url">https://e7.pngegg.com/pngimages/599/994/png-clipart-sauron-the-hobbit-azog-the-fellowship-of-the-ring-one-ring-the-hobbit-mace-sauron.png</string>
+
+    <string name="nightfall_name">Nightfall</string>
+    <string name="nightfall_description">The massive, ethereal mace wielded by Mordekaiser, forged from the souls of a sorcerer coven.</string>
+    <string name="nightfall_url">https://wiki.leagueoflegends.com/en-us/images/thumb/Mordekaiser_Update_Teaser_01.jpg/300px-Mordekaiser_Update_Teaser_01.jpg?e590a</string>
+
+    <string name="ray_gun_name">The Ray Gun</string>
+    <string name="ray_gun_description">INTENTAMOS BUSCARLA SIN FONDO Dx It is a retro-futuristic ray gun that fires green plasma blasts, causing high-damage splash damage to zombies.</string>
+    <string name="ray_gun_url">https://cdn.imgbin.com/13/1/0/imgbin-call-of-duty-black-ops-iii-call-of-duty-black-ops-4-raygun-weapon-jacqueline-ray-SqRq6VULaaYFdX9gbWhqeA4Xp.jpg</string>
+
+    <string name="preset_name">Name your preset</string>
+    <string name="preset_avatar">Avatar</string>
+    <string name="preset_weapon">Weapon of choice</string>
 </resources>

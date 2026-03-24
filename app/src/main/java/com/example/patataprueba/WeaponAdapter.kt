@@ -14,6 +14,11 @@ class WeaponAdapter(private val weapons: List<Weapons>):
 RecyclerView.Adapter<WeaponAdapter.WeaponViewHolder>(){
 
     private lateinit var context: Context
+    private var onSelectWeapon: ((Weapons) -> Unit)? = null
+
+    fun setOnSelectWeapon(callback: (Weapons) -> Unit) {
+        this.onSelectWeapon = callback
+    }
 
     override fun onCreateViewHolder(
         parent: ViewGroup,
@@ -37,6 +42,10 @@ RecyclerView.Adapter<WeaponAdapter.WeaponViewHolder>(){
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
                 .fitCenter()
                 .into(binding.imgWeapon)
+
+            binding.btnSelect.setOnClickListener {
+                onSelectWeapon?.invoke(weapon)
+            }
         }
     }
 
